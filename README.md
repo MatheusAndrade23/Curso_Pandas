@@ -2,8 +2,6 @@
 
 <a href="https://www.udemy.com/course/tratamento-de-dados-com-python-e-pandas-primeiros-passos/">Clique aqui para ver o curso</a>
 
-<br />
-
 <h3>Eu aprendi a:</h3>
 
 - Criar DataFrames
